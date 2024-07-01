@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 3. Create Environment :
 ```
-conda create -n llopstradingbotenv python=3.10 -y
+conda create -n llmtradingbotenv python=3.10 -y
 ```
 
 4. Activate Environment:
