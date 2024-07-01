@@ -32,7 +32,7 @@ conda create -n llmtradingbotenv python=3.10 -y
 
 4. Activate Environment:
 ```
-conda activate llmopstradingbotenv
+conda activate llmtradingbotenv
 ```
 5. Run the Flask application:
 ```
